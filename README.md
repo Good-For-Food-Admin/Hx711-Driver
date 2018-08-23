@@ -1,6 +1,6 @@
 # Hx711-Driver
 
-Hx711 driver for nodejs. Built originally for usage on Raspberry pi. 
+Hx711 driver for nodejs. Built originally for usage on Raspberry pi.
 
-Author: Jeffery Kwoh 
+**Main Author**: Jeffery Kwoh 
 
